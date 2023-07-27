@@ -1,5 +1,10 @@
 # Cipher Genius
 Password generator using Fisher Yates Algorithm
+Copy to Clipboard Function
+
+Length, Characters, Symbols, Numbers Selector
+
+Strength Indicator
 # Live Demo Link
 https://ciphergenius.netlify.app/
 # Yates Fisher Algorithm
